@@ -12,13 +12,13 @@ The purpose of this initiative is to create a basic webpage template that can be
 ## 1. Develop a scalable and maintainable architecture for the webpage.
 
 * User stories:
- - As a website administrator, I want to be able to easily add new pages and features to the website without affecting the existing fnctionality.
- - As a website visitor, I want to experience fast loading times and minimal downtime on the website.
+    - As a website administrator, I want to be able to easily add new pages and features to the website without affecting the existing fnctionality.
+    - As a website visitor, I want to experience fast loading times and minimal downtime on the website.
 ## 1. Implement search engine optimization (SEO) techniques to increase the visibility and ranking of the webpage.
 
 * User stories:
- - As a website visitor, I want to be able to find the information I am looking for easily through search engines.
- - As a website administrator, I want to increase the traffic to the website and improve its search engine ranking.
+    - As a website visitor, I want to be able to find the information I am looking for easily through search engines.
+    - As a website administrator, I want to increase the traffic to the website and improve its search engine ranking.
 # Test Plan:
 
 1. Perform cross-browser testing to ensure the website is functional and visually consistent across all browsers.
