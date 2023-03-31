@@ -1,6 +1,7 @@
 # Initiative Title: DevOps Implementation for Automated Testing and Deployment
 
-# Description: The goal of this initiative is to implement a DevOps process that enables automated testing to catch issues early on and adapt to changing requirements, as well as automated deployment of the current development branch to team members' local environments to facilitate manual review.
+# Description: 
+The goal of this initiative is to implement a DevOps process that enables automated testing to catch issues early on and adapt to changing requirements, as well as automated deployment of the current development branch to team members' local environments to facilitate manual review.
 
 # Epics:
 
