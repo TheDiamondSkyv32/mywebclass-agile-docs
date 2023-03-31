@@ -10,7 +10,7 @@ The purpose of this initiative is to create a basic webpage template that can be
 * User stories:
     - As a website visitor, I want to be able to access and navigate the website on my mobile device without any issues.
     - As a website administrator, I want to be able to easily update and manage the content of the website through a user-friendly interface.
-    - 
+
 ## Develop a scalable and maintainable architecture for the webpage.
 * User stories:
     - As a website administrator, I want to be able to easily add new pages and features to the website without affecting the existing fnctionality.
@@ -21,7 +21,6 @@ The purpose of this initiative is to create a basic webpage template that can be
     - As a website visitor, I want to be able to find the information I am looking for easily through search engines.
     - As a website administrator, I want to increase the traffic to the website and improve its search engine ranking.
 # Test Plan:
-
 1. Perform cross-browser testing to ensure the website is functional and visually consistent across all browsers.
 1. Conduct user testing to gather feedback on the website's usability and user experience.
 1. Test website performance using tools such as Google PageSpeed Insights and GTmetrix to ensure fast loading times and minimal downtime.
