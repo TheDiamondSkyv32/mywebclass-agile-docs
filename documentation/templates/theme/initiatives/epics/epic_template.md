@@ -37,4 +37,4 @@ MyWebClass has the potential to provide significant value to students and busine
 Given the potential value of MyWebClass to both students and businesses, it is a high-priority project that should be launched as soon as possible. However, it is important to ensure that the platform and courses are of the highest quality, so sufficient time and effort should be allocated to development and testing.
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](https://github.com/TheDiamondSkyv32/mywebclass-agile-docs/blob/302dd1d8d586d7f17f8b1e05c40e644629c369bf/documentation/templates/theme/initiatives/epics/stories/story%201.md)
