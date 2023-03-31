@@ -58,4 +58,4 @@ The MyWebClass Online Learning Initiative will focus on providing online courses
 * Quality Assurance Team
 * Marketing and Communication Team
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](https://github.com/TheDiamondSkyv32/mywebclass-agile-docs/blob/7b2aabdb372dff49b55c99e5720086d669231e6d/documentation/templates/theme/initiatives/epics/epic_template.md)
