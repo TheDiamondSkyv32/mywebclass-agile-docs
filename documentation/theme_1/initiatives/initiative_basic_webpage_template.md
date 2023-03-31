@@ -8,8 +8,8 @@ The purpose of this initiative is to create a basic webpage template that can be
 ## 1. Create a responsive layout design that is visually appealing and functional on all devices.
 
 * User stories:
-* As a website visitor, I want to be able to access and navigate the website on my mobile device without any issues.
-* As a website administrator, I want to be able to easily update and manage the content of the website through a user-friendly interface.
+- As a website visitor, I want to be able to access and navigate the website on my mobile device without any issues.
+- As a website administrator, I want to be able to easily update and manage the content of the website through a user-friendly interface.
 ## 1. Develop a scalable and maintainable architecture for the webpage.
 
 * User stories:
