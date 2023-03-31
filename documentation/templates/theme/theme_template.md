@@ -6,4 +6,4 @@ Our courses are designed to be comprehensive, covering everything from coding ba
 Our expert instructors are industry professionals with years of experience, so you'll learn from the best. Plus, our platform is flexible, so you can learn at your own pace and on your own schedule. Whether you're a beginner or an experienced developer looking to update your skills, MyWebClass has something for everyone.
 
 Join our community of learners and start your journey to becoming a modern software development expert today!
-1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+1. [Initiative](initiative_template.md)
