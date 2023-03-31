@@ -5,7 +5,7 @@ The purpose of this initiative is to create a basic webpage template that can be
 
 # [Epics](../../templates/theme/initiatives/epics/epic_template.md)
 
-1. Create a responsive layout design that is visually appealing and functional on all devices.
+## 1. Create a responsive layout design that is visually appealing and functional on all devices.
 
 * User stories:
 * As a website visitor, I want to be able to access and navigate the website on my mobile device without any issues.
