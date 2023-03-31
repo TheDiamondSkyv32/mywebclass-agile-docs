@@ -5,12 +5,10 @@ The purpose of this initiative is to create a basic webpage template that can be
 
 # [Epics](../../templates/theme/initiatives/epics/epic_template.md)
 ## 1. Create a responsive layout design that is visually appealing and functional on all devices.
-
 * User stories:
     - As a website visitor, I want to be able to access and navigate the website on my mobile device without any issues.
     - As a website administrator, I want to be able to easily update and manage the content of the website through a user-friendly interface.
 ## 1. Develop a scalable and maintainable architecture for the webpage.
-
 * User stories:
     - As a website administrator, I want to be able to easily add new pages and features to the website without affecting the existing fnctionality.
     - As a website visitor, I want to experience fast loading times and minimal downtime on the website.
