@@ -35,11 +35,11 @@ Dependencies: MyWebClass will depend on a team of experienced software developer
 
 # Team:
 
-Project Manager
-Course Developers
-Instructors
-Instructional Designers
-Quality Assurance Specialists
-Technical Support Personnel
+* Project Manager
+* Course Developers
+* Instructors
+* Instructional Designers
+* Quality Assurance Specialists
+* Technical Support Personnel
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
