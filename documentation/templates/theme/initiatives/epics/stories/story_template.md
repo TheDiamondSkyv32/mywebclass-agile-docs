@@ -12,4 +12,4 @@ As a software developer, I want to learn modern software development technologie
 * The courses are accessible and flexible, allowing for self-paced learning.
 * The platform provides a high-quality education that meets the needs of students in the rapidly evolving technology landscape.*
 # List Stories related to this theme
-1. [Stories 1](https://github.com/TheDiamondSkyv32/mywebclass-agile-docs/blob/1bed0ec02d22881ce99e9fc67e31770ef866ec34/documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Stories 1](https://github.com/TheDiamondSkyv32/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/more_stories.md)
