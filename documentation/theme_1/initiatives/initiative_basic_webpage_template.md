@@ -1,13 +1,3 @@
-# Initiative: insert Title
-## Description
-## Epics
-* [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
-* Epic 2
-## Test plan
-How will this be tested?
-
-Sure, here is a revised version of the initiative with more epics:
-
 # Initiative: Basic Webpage Template
 
 # Description:
