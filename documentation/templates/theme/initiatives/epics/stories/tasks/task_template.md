@@ -18,7 +18,7 @@ As a MyWebClass platform developer, I want to integrate DevOps practices into th
 * The testing and deployment of the platform should be fully automated and reliable.
 * The monitoring and logging systems should provide insights into the platform's performance.
 * The collaboration and communication tools should be integrated seamlessly into the platform.
-Dependencies:
+# Dependencies:
 
 * The platform's architecture and infrastructure should be suitable for implementing DevOps practices.
 * The development team should have the necessary skills and expertise to implement the DevOps practices.
