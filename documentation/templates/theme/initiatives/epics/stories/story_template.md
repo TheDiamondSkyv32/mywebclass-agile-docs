@@ -1,4 +1,4 @@
-## Story Title: Learn Modern Software Development with MyWebClass
+# Story Title: Learn Modern Software Development with MyWebClass
 
 #User Story:
 As a software developer, I want to learn modern software development technologies and processes in a hands-on learning environment so that I can enhance my skills and knowledge in the field.
